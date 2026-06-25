@@ -166,7 +166,7 @@ const chrisper = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-kris4509-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kris4509)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-58a6ff?style=for-the-badge&logo=vercel&logoColor=white)](https://kris-portfolio-website.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrispermwangi45@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chrispermwash@gmail.com)
 [![BotMarket](https://img.shields.io/badge/BotMarket-Trading%20Bots-ff9800?style=for-the-badge&logo=robot&logoColor=white)](https://botmarket-ke.vercel.app/)
 [![Location](https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-0077B5?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Nairobi,Kenya)
 
